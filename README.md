@@ -10,7 +10,7 @@ Clone this repository in your local device.
 
 The repository contains two files: The React app (products) and the API (myAPI).
 
-Install the all dependencies in both files by the "npm install" command
+Install all dependencies in both files by the "npm install" command
 
 Run both programs by the command "npm start"
 
